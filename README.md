@@ -1,1 +1,2 @@
-# WHJR-Project-104
+# MeanMedianMode
+Project-104
